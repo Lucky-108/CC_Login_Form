@@ -103,19 +103,19 @@ body {
     font-weight: 600;
 }
 
-.bigbox .register-link {
+.bigbox .reg {
     font-size: 14.5px;
     text-align: center;
     margin: 20px 0 15px;
 
 }
 
-.register-link p a {
+.reg p a {
     color: #fff;
     text-decoration: none;
     font-weight: 600;
 }
 
-.register-link p a:hover {
+.reg p a:hover {
     text-decoration: underline;
 }
